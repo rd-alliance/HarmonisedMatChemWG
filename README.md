@@ -14,3 +14,7 @@ This repository holds the two supporting outputs of the working group:
 ## Contributing
 
 Contributions are welcome and encouraged. Please follow our [contribution guide](CONTRIBUTING.md).
+
+## Code of Conduct
+
+This repository and working group follows and enforces the [RDA Code of Conduct](https://www.rd-alliance.org/about/code-of-conduct/).
